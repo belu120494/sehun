@@ -1,11 +1,11 @@
-# Landing Page
+# EXO  
 
-EXO is my life
-
-## Comparte
-
-Si te gusto el proyecto compártelo con otros, esto es un Landing Page GRATUITO para la comunidad de UPEA y el mundo.
-
-## Colaborar
-
-Si encuentras algún error, o mejor aún, deseas mejorar lo que ya está implementado, eres bienvenido a realizar cambios, pero cuidado, todos los cambios serán revisados y validados antes de ser subidos o actualizados.
+Kim Junmyeon
+Kim Minseok
+Zhang Yixig
+Byun Baekhyung
+Kim Jongdae
+Park Chanyeol
+Do Kyungsoo
+Kim Jongin
+Oh Sehun
